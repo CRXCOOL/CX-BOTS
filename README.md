@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NBBotz/Images/blob/main/Lucia.jpg">
+  
 </p>
 
 <h1 align="center">Lucia Filter Bot</h1>
