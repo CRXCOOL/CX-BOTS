@@ -2,7 +2,7 @@
   
 </p>
 
-<h1 align="center">Lucia Filter Bot</h1>
+<h1 align="center"> CX BOTS</h1>
 
 <p align="center">
   <a href="https://t.me/Cinemabackaup">
