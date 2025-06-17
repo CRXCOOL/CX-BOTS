@@ -8,7 +8,7 @@
   <a href="https://t.me/SilentXBotz_Support">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="http://t.me/Lucia_Filter_Bot">
+  <a href="http://t.me/CXFILTERBOT">
     <img src="https://img.shields.io/badge/Demo%20Bot-Click%20Here-green?style=for-the-badge&logo=telegram">
   </a>
 </p>
