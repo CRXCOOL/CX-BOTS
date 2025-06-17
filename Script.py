@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>​​​ʜɪɪ 👋, 
-ɪ ᴀᴍ ᴛʜᴇ bot made for @Cinemabackaup. for any enquiry contact admin @Sneak250 .</b>"""
+ɪ ᴀᴍ ᴛʜᴇ powerfull autofilterbot i can provide you any movie file just ad me to your group .</b>"""
 
     FEATURES_TXT = """<b>ʜᴇʀᴇ ɪꜱ ᴀʟʟ ᴍʏ ꜰᴜɴᴛɪᴏɴꜱ.</b>"""
 
